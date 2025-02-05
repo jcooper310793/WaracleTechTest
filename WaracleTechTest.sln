@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaracleTechTest.Data", "WaracleTechTest.Data\WaracleTechTest.Data.csproj", "{FB8483BD-C314-4E01-85CF-DAAA2686DF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaracleTechTest.Migrations", "WaracleTechTest.Migrations\WaracleTechTest.Migrations.csproj", "{869D066D-27A8-435F-B2D4-E79861FDF7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaracleTechTest.API", "WaracleTechTest.API\WaracleTechTest.API.csproj", "{C799EAE3-E4F4-475E-8C54-E239E43E4D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaracleTechTest.Business", "WaracleTechTest.Business\WaracleTechTest.Business.csproj", "{6116A65B-096E-4F30-8F83-603CD7151429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8483BD-C314-4E01-85CF-DAAA2686DF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8483BD-C314-4E01-85CF-DAAA2686DF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8483BD-C314-4E01-85CF-DAAA2686DF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8483BD-C314-4E01-85CF-DAAA2686DF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869D066D-27A8-435F-B2D4-E79861FDF7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869D066D-27A8-435F-B2D4-E79861FDF7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869D066D-27A8-435F-B2D4-E79861FDF7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869D066D-27A8-435F-B2D4-E79861FDF7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C799EAE3-E4F4-475E-8C54-E239E43E4D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C799EAE3-E4F4-475E-8C54-E239E43E4D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C799EAE3-E4F4-475E-8C54-E239E43E4D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C799EAE3-E4F4-475E-8C54-E239E43E4D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6116A65B-096E-4F30-8F83-603CD7151429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6116A65B-096E-4F30-8F83-603CD7151429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6116A65B-096E-4F30-8F83-603CD7151429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6116A65B-096E-4F30-8F83-603CD7151429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

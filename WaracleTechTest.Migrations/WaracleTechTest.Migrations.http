@@ -1,0 +1,6 @@
+@WaracleTechTest.Migrations_HostAddress = http://localhost:5224
+
+GET {{WaracleTechTest.Migrations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
